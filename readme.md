@@ -23,8 +23,11 @@ pip install web3 python-dotenv eth_account
 ```
 
 ## Quick Start
+
+clone repository
+
 ```bash
-clone repository 
+git clone https://github.com/baylon-obinna/Satoshi.git
 cd wallet 
 ```
 
